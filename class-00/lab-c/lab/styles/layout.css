@@ -1,17 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
 
 
-#logo .l-left{
-    float: left;
-}
 
 #logo {
     padding-bottom: 25px;
     color: black;
     text-decoration: none;
+    float: left;
   }
   
-#logo img .l-left{
+#logo img{
     float: left;
   }
   
