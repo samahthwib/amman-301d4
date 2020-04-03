@@ -1,0 +1,42 @@
+input {
+    font-family: 'Patrick Hand', cursive;
+  }
+
+  main p {
+    color: #333;
+    font-size: 1.2em;
+  }
+
+
+  h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5em;
+  }
+
+  .print, .date {
+    color: #a9a8a5;
+    font-family: 'Abel', sans-serif;
+
+}
+
+.recipe{
+font-family: 'Patrick Hand', cursive;
+color: #666a42;
+
+}
+
+#slogan {
+    color: #a3a4a2;
+    font-family: 'Abel', sans-serif;
+    font-size: .65em;
+    text-transform: uppercase;
+}
+
+aside button {
+    background: #b8705a;
+    color: #fff;
+    font-size: 1.2em;
+    border: none;
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+}
