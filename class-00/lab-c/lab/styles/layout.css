@@ -1,6 +1,4 @@
 
-
-
 hr {
   clear: both;
   border: 0;
@@ -19,14 +17,14 @@ h2 {
 
 }
 
-  
-  section hr {
+
+section hr {
     border-bottom: 1px solid #eee;
     height: 0;
   }
 
 
-  .print, .date {
+.print, .date {
     font-size: .8em;
     margin: 0;
     text-transform: uppercase;
@@ -34,12 +32,12 @@ h2 {
     margin-bottom: 33px;
   }
   
-  .date {
+.date {
     float: left;
   }
 
 
-  .print {
+.print {
     text-decoration: none;
     padding-left: 30px;
     float: right;
